@@ -1,0 +1,42 @@
+[
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_customers_dataset.csv",
+		"folder_name": "customers",
+		"file_name": "customers.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_order_items_dataset.csv",
+		"folder_name": "order-items",
+		"file_name": "order-items.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_order_reviews_dataset.csv",
+		"folder_name": "order-reviews",
+		"file_name": "order-reviews.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_orders_dataset.csv",
+		"folder_name": "orders",
+		"file_name": "orders.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_products_dataset.csv",
+		"folder_name": "products",
+		"file_name": "products.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_sellers_dataset.csv",
+		"folder_name": "sellers",
+		"file_name": "sellers.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/product_category_name_translation.csv",
+		"folder_name": "product-category-name-translation",
+		"file_name": "product-category-name-translation.csv"
+	},
+	{
+		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_geolocation_dataset.csv",
+		"folder_name": "geolocation",
+		"file_name": "geolocation.csv"
+	}
+]
