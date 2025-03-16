@@ -30,11 +30,6 @@
 		"file_name": "sellers.csv"
 	},
 	{
-		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/product_category_name_translation.csv",
-		"folder_name": "product-category-name-translation",
-		"file_name": "product-category-name-translation.csv"
-	},
-	{
 		"git_relative_url": "Brazilian-E-Commerce-Dataset/refs/heads/main/olist_geolocation_dataset.csv",
 		"folder_name": "geolocation",
 		"file_name": "geolocation.csv"
